@@ -1,0 +1,120 @@
+@media screen and (max-width:625px)
+{
+   .section1 .carousel-control-next
+   {
+       top: 57.9%;
+   }
+   .section1 .carousel h1
+{
+width: 100%;
+font-size:20px;
+left: 50%;
+}    
+.section2 .col-md-12
+{
+
+    width: 100%;
+}
+.section2 button
+{
+    width: 100%;
+    margin: 20px;
+}
+
+}
+section p 
+{
+    font-size: 50px;
+}
+@media screen and (max-width:768px)
+{
+    .section1 .carousel-control-next
+    {
+        top: 57.9%;
+    }
+    .section1 .carousel h1
+    {
+    width: 100%;
+    font-size:70px;
+    left: 5%;
+    }    
+    .section2 .col-md-12
+{
+
+    width: 100%;
+}
+.section2 button
+{
+    width: 50%;
+    margin: 20px;
+}
+}
+@media screen and (max-width:992px)
+{
+    .section1 .carousel-control-next
+    {
+        top: 57.9%;
+    }
+    .section1 .carousel h1
+    {
+    width: 100%;
+    font-size:70px;
+    left: 5%;
+    }    
+    .section2 .col-md-12
+{
+
+    width: 100%;
+}
+.section2 button
+{
+    width: 20%;
+    margin: 50px;
+}
+}
+@media screen and (max-width:1200px)
+{
+    .section1 .carousel-control-next
+    {
+        top: 55.9%;
+    }
+    .section1 .carousel h1
+    {
+    width: 100%;
+    font-size:70px;
+    left: 5%;
+    }    
+    .section2 .col-md-12
+{
+
+    width: 100%;
+}
+.section2 button
+{
+    width: 50%;
+    margin: 20px;
+}
+}
+@media screen and (max-width:1400px)
+{
+    .section1 .carousel-control-next
+    {
+        top: 57.9%;
+    }
+    .section1 .carousel h1
+    {
+    width: 100%;
+    font-size:70px;
+    left: 5%;
+    }    
+    .section2 .col-md-12
+{
+
+    width: 100%;
+}
+.section2 button
+{
+    width: 20%;
+    margin: 20px;
+}
+}
