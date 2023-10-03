@@ -10,6 +10,17 @@
     box-sizing: border-box;
 }
 
+#main-nav
+{
+    transition: background-color 2s;
+
+}
+.navbar ul
+{
+left: 0;
+right: 0;
+}
+
 .section1 img
 {
     background-position: center center;
@@ -67,22 +78,12 @@ font-weight: 700;
 font-size: 70px;
 color: var(--main-color);
 }
-nav i
-{
-color: #f4f4f4;
-}
-nav  .home
-{
-    color: red;
-}
+
 #header
 {
     position: relative;
 }
-nav
-{
-   border-bottom: rgba(255, 255, 255, 0.2) 1px solid
-}
+
 
 .client-feedback .brdr
 {
